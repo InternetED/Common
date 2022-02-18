@@ -1,4 +1,4 @@
-package com.interneted.androidcommon
+package com.interneted.androidcommon.image
 
 import android.content.Context
 import com.bumptech.glide.GlideBuilder
